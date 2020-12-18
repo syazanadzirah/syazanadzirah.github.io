@@ -1,0 +1,35 @@
+
+p
+{
+text-align:center;
+color:black;
+font-family:times new roman;
+font-size:18px
+}
+
+h1
+{
+text-align:center;
+font-family:times new roman;
+color:black;
+}
+
+h2
+{
+text-align:center;
+color:black;
+}
+
+body
+{
+background-img:images/background.gif;
+}
+
+table,th,td
+{
+align:center;
+text-align:center;
+font-family:times new roman;
+height:40px
+}
+
